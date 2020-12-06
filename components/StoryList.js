@@ -40,11 +40,12 @@ const StoryList = ({ stories }) => (
       }
 
       .story-details {
-        font-size: 0.8rem
+        font-size: 0.8rem;
       }
 
       .story-details span {
         margin-right: 1em;
+        font-weight: bold;
       }
 
       .story-details a {
